@@ -1,0 +1,51 @@
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-351-975396cd1f1b>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  256 is 256
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-352-ea05d2070129>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  300 is 300
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-353-ea05d2070129>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  300 is 300
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-354-ea05d2070129>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  300 is 300
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-355-ea05d2070129>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  300 is 300
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+<ipython-input-356-ea05d2070129>:1: SyntaxWarning: "is" with a literal. Did you mean "=="?
+  300 is 300
+
+
+1875/1875 [==============================] - 4s 2ms/step - loss: 13.6936 - accuracy: 0.5736 - val_loss: 6.0350 - val_accuracy: 0.4900
+Epoch 1/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 1.5005 - accuracy: 0.4654 - val_loss: 1.0903 - val_accuracy: 0.5847 - lr: 0.0010
+Epoch 2/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.8978 - accuracy: 0.6962 - val_loss: 0.7670 - val_accuracy: 0.7410 - lr: 0.0013
+Epoch 3/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.6287 - accuracy: 0.7937 - val_loss: 0.5913 - val_accuracy: 0.7952 - lr: 0.0016
+Epoch 4/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5496 - accuracy: 0.8088 - val_loss: 0.5618 - val_accuracy: 0.8013 - lr: 0.0020
+Epoch 5/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5323 - accuracy: 0.8125 - val_loss: 0.5721 - val_accuracy: 0.7976 - lr: 0.0025
+Epoch 6/10
+
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5346 - accuracy: 0.8119 - val_loss: 0.6123 - val_accuracy: 0.7880 - lr: 0.0032
+Epoch 7/10
+1875/1875 [==============================] - 3s 1ms/step - loss: 0.5449 - accuracy: 0.8111 - val_loss: 0.5730 - val_accuracy: 0.7962 - lr: 0.0040
+Epoch 8/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5442 - accuracy: 0.8112 - val_loss: 0.5492 - val_accuracy: 0.8110 - lr: 0.0050
+Epoch 9/10
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5470 - accuracy: 0.8106 - val_loss: 0.6197 - val_accuracy: 0.7877 - lr: 0.0063
+Epoch 10/10
+
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.5578 - accuracy: 0.8080 - val_loss: 0.6006 - val_accuracy: 0.7934 - lr: 0.0079
+
+1875/1875 [==============================] - 2s 1ms/step - loss: 0.4888 - accuracy: 0.8309 - val_loss: 0.5222 - val_accuracy: 0.8187 - lr: 0.0010
